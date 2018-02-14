@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.babasport</groupId>
+  <artifactId>Parent_baba</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>baba_Common</module>
+  	<module>baba_Pojo</module>
+  	<module>baba_Interface</module>
+  	<module>baba_PortalControl</module>
+  	<module>baba_ConsoleControl</module>
+  	<module>baba_Dao</module>
+  	<module>baba_SSOService</module>
+  	<module>baba_SSOControl</module>
+  	<module>baba_CmsService</module>
+  	<module>baba_ProductService</module>
+  	<module>baba_SolrService</module>
+  </modules>
+</project>
